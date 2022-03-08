@@ -12,6 +12,18 @@ They can simply create a project and describe their idea. After that software te
 - Cost estimate
 - Time estimate
 
+Usage for those who have software company:
+- Expand their business
+- Manage projects
+- Hire new developers
+-
+
+Usage for those who are developer:
+- Find a job
+- Hrie assistant 
+- Hire developer to help them 
+
+
 
 
 Main  idea in this project is you can hire developers in this platform after that
