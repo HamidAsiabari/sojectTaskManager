@@ -23,6 +23,11 @@ Usage for those who are developer:
 - Hrie assistant 
 - Hire developer to help them 
 
+Usage for those who are project managers:
+
+- Manage tasks
+- outsource several tasks 
+
 
 
 
