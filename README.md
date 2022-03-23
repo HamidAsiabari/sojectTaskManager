@@ -44,12 +44,12 @@ Main  idea in this project is you can hire developers in this platform after tha
 
 Sections:
 
--projects
--tasks
--employee
--timeline
--server
--repository
+- projects
+- tasks
+- employee
+- timeline
+- server
+- repository
 -
 
 
